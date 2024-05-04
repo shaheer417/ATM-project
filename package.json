@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "name": "872wj79atm_pjt",
+  "version": "1.0.0",
+  "description": "simple atm project for beginner",
+  "main": "main.ts",
+  "type": "module",
+  "bin": "index.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaheer_niazi",
+  "license": "MIT"
+}
